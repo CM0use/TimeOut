@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>TimeOut</Name>
+    <Version>1.0.0</Version>
+    <Title>TimeOut Installer</Title>
+    <Publisher>CM0use</Publisher>
+    <ProductUrl>https://github.com/CM0use/TimeOut</ProductUrl>
+    <StartMenuDir>TimeOut</StartMenuDir>
+    <TargetDir>@HomeDir@/TimeOut</TargetDir>
+</Installer>

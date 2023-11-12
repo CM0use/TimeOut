@@ -1,0 +1,31 @@
+QWidget {
+    background-color: white;
+    color: #202124;
+    selection-background-color: green;
+    selection-color: white;
+}
+
+QMenu::item:selected {
+    background-color: #E8F0FE;
+    color: #1967D2;
+}
+
+QLCDNumber {
+    background-color: #efefef;
+    border: 1px solid #ccc;
+    border-radius: 13px;
+}
+
+QSpinBox {
+    background-color: #F1F3F4;
+}
+
+QLineEdit {
+    background-color: #F1F3F4;
+    padding: 9px 9px 9px 9px;
+    border-radius: 13px 13px 13px 13px;
+}
+
+QPushButton:disabled {
+    background-color: gray;
+}
